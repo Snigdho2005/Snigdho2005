@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Snigdhajyoti Rakshit
-- 👀 I’m interested in Automobiles and Coding
+- 👋 Hi, I’m Snigdhajyoti Rakshit , almost finishing 2nd Year at College !
+- 👀 I’m interested in Automobiles and Deep Diving into the World of Coding
 - 🌱 I’m currently learning Java, Machine Learning and Web Development
 - 💞️ I’m looking to collaborate on Machine Learning Projects
 - 📫 How to reach me : GMail 
