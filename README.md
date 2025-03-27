@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Snigdhajyoti Rakshit , almost finishing 2nd Year at College !
 - 👀 I’m interested in Automobiles and Deep Diving into the World of Coding
 - 🌱 I’m currently learning Java, Machine Learning and Web Development
-- 💞️ I’m looking to collaborate on Machine Learning Projects
+- 💞️ I’m looking to collaborate on Machine Learning Projects and Hackathons
 - 📫 How to reach me : GMail 
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: Tumbler BatMobile had a Chevrolet V8 Engine
